@@ -3,13 +3,14 @@
 -abra o MYSQL WorkBanch
 -clique aqui:
 ![image](https://github.com/user-attachments/assets/83a0c509-50d5-42ef-9386-81921af2d797)
-- coloque a senha do seu banco
+- coloque a senha do seu banco:
   
 ![image](https://github.com/user-attachments/assets/a733d0ff-1e94-43bc-a6ee-937a575dae02)
-
+- Clique aqui para criar o Banco:
+  
 ![image](https://github.com/user-attachments/assets/d42808c2-384d-4a24-9635-ce9b6222a380)
 
-
+- de um nome para o seu banco e depois siga as orientações à baixo:
 ![image](https://github.com/user-attachments/assets/187f1185-d789-4dd9-82a5-cfbdc882f06e)
 
 ![image](https://github.com/user-attachments/assets/103b6ad8-1e2b-4448-83c2-c20def7d702c)
